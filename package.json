@@ -1,6 +1,6 @@
 {
   "name": "arabic-vowelizer",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "A tool for accurate diacritization of highly cited texts by automatically “borrowing” diacritization from other citations.",
   "main": "main.js",
   "scripts": {
